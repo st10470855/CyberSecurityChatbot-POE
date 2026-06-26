@@ -12,7 +12,7 @@ It is designed to educate users about online safety while providing interactive 
 - Uses keyword detection to simulate Natural Language Processing (NLP)
 - Recognises intents like:
   - Password safety 
-  - Phishing
+  - Phishing 
   - Scams
   - Privacy
   - Tasks
