@@ -1,0 +1,36 @@
+C:\Users\Student\source\repos\CyberSecurityChatbot\CyberSecurityChatbot\bin\Debug\greeting.wav
+C:\Users\Student\source\repos\CyberSecurityChatbot\CyberSecurityChatbot\bin\Debug\CyberSecurityChatbot.exe.config
+C:\Users\Student\source\repos\CyberSecurityChatbot\CyberSecurityChatbot\bin\Debug\CyberSecurityChatbot.exe
+C:\Users\Student\source\repos\CyberSecurityChatbot\CyberSecurityChatbot\bin\Debug\CyberSecurityChatbot.pdb
+C:\Users\Student\source\repos\CyberSecurityChatbot\CyberSecurityChatbot\obj\Debug\CyberSecurityChatbot.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\CyberSecurityChatbot\CyberSecurityChatbot\obj\Debug\CyberSecurityChatbot.Form1.resources
+C:\Users\Student\source\repos\CyberSecurityChatbot\CyberSecurityChatbot\obj\Debug\CyberSecurityChatbot.Properties.Resources.resources
+C:\Users\Student\source\repos\CyberSecurityChatbot\CyberSecurityChatbot\obj\Debug\CyberSecurityChatbot.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\CyberSecurityChatbot\CyberSecurityChatbot\obj\Debug\CyberSecurityChatbot.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\CyberSecurityChatbot\CyberSecurityChatbot\obj\Debug\CyberSecurityChatbot.exe
+C:\Users\Student\source\repos\CyberSecurityChatbot\CyberSecurityChatbot\obj\Debug\CyberSecurityChatbot.pdb
+C:\Users\Student\source\repos\CyberSecurityChatbot\CyberSecurityChatbot\obj\Debug\CyberSecurityChatbot.exe.config
+C:\Users\Student\Desktop\New folder\CyberSecurityChatbot\CyberSecurityChatbot\bin\Debug\greeting.wav
+C:\Users\Student\Desktop\New folder\CyberSecurityChatbot\CyberSecurityChatbot\bin\Debug\CyberSecurityChatbot.exe.config
+C:\Users\Student\Desktop\New folder\CyberSecurityChatbot\CyberSecurityChatbot\bin\Debug\CyberSecurityChatbot.exe
+C:\Users\Student\Desktop\New folder\CyberSecurityChatbot\CyberSecurityChatbot\bin\Debug\CyberSecurityChatbot.pdb
+C:\Users\Student\Desktop\New folder\CyberSecurityChatbot\CyberSecurityChatbot\obj\Debug\CyberSecurityChatbot.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\New folder\CyberSecurityChatbot\CyberSecurityChatbot\obj\Debug\CyberSecurityChatbot.exe.config
+C:\Users\Student\Desktop\New folder\CyberSecurityChatbot\CyberSecurityChatbot\obj\Debug\CyberSecurityChatbot.Form1.resources
+C:\Users\Student\Desktop\New folder\CyberSecurityChatbot\CyberSecurityChatbot\obj\Debug\CyberSecurityChatbot.Properties.Resources.resources
+C:\Users\Student\Desktop\New folder\CyberSecurityChatbot\CyberSecurityChatbot\obj\Debug\CyberSecurityChatbot.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\New folder\CyberSecurityChatbot\CyberSecurityChatbot\obj\Debug\CyberSecurityChatbot.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\New folder\CyberSecurityChatbot\CyberSecurityChatbot\obj\Debug\CyberSecurityChatbot.exe
+C:\Users\Student\Desktop\New folder\CyberSecurityChatbot\CyberSecurityChatbot\obj\Debug\CyberSecurityChatbot.pdb
+C:\Users\Student\Desktop\CyberSecurityChatbot Part-Two\CyberSecurityChatbot Part-Two\CyberSecurityChatbot\CyberSecurityChatbot\bin\Debug\greeting.wav
+C:\Users\Student\Desktop\CyberSecurityChatbot Part-Two\CyberSecurityChatbot Part-Two\CyberSecurityChatbot\CyberSecurityChatbot\bin\Debug\CyberSecurityChatbot.exe.config
+C:\Users\Student\Desktop\CyberSecurityChatbot Part-Two\CyberSecurityChatbot Part-Two\CyberSecurityChatbot\CyberSecurityChatbot\bin\Debug\CyberSecurityChatbot.exe
+C:\Users\Student\Desktop\CyberSecurityChatbot Part-Two\CyberSecurityChatbot Part-Two\CyberSecurityChatbot\CyberSecurityChatbot\bin\Debug\CyberSecurityChatbot.pdb
+C:\Users\Student\Desktop\CyberSecurityChatbot Part-Two\CyberSecurityChatbot Part-Two\CyberSecurityChatbot\CyberSecurityChatbot\obj\Debug\CyberSecurityChatbot.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\CyberSecurityChatbot Part-Two\CyberSecurityChatbot Part-Two\CyberSecurityChatbot\CyberSecurityChatbot\obj\Debug\CyberSecurityChatbot.Properties.Resources.resources
+C:\Users\Student\Desktop\CyberSecurityChatbot Part-Two\CyberSecurityChatbot Part-Two\CyberSecurityChatbot\CyberSecurityChatbot\obj\Debug\CyberSecurityChatbot.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\CyberSecurityChatbot Part-Two\CyberSecurityChatbot Part-Two\CyberSecurityChatbot\CyberSecurityChatbot\obj\Debug\CyberSecurityChatbot.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\CyberSecurityChatbot Part-Two\CyberSecurityChatbot Part-Two\CyberSecurityChatbot\CyberSecurityChatbot\obj\Debug\CyberSecurityChatbot.exe
+C:\Users\Student\Desktop\CyberSecurityChatbot Part-Two\CyberSecurityChatbot Part-Two\CyberSecurityChatbot\CyberSecurityChatbot\obj\Debug\CyberSecurityChatbot.pdb
+C:\Users\Student\Desktop\CyberSecurityChatbot Part-Two\CyberSecurityChatbot Part-Two\CyberSecurityChatbot\CyberSecurityChatbot\obj\Debug\CyberSecurityChatbot.exe.config
+C:\Users\Student\Desktop\CyberSecurityChatbot Part-Two\CyberSecurityChatbot Part-Two\CyberSecurityChatbot\CyberSecurityChatbot\obj\Debug\CyberSecurityChatbot.rtbLog.resources
