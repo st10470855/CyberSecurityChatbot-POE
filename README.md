@@ -11,7 +11,7 @@ It is designed to educate users about online safety while providing interactive 
 ### 💬 1. Chatbot with NLP Simulation
 - Uses keyword detection to simulate Natural Language Processing (NLP)
 - Recognises intents like:
-  - Password safety
+  - Password safety 
   - Phishing
   - Scams
   - Privacy
